@@ -1,0 +1,7 @@
+.
+./nbs
+./src
+./src/__pycache__
+./data
+./data_processed_models
+./outputs

@@ -1,0 +1,6 @@
+{
+    "train_events_path": "../data/train_events.csv",
+    "train_series_path": "../data/train_series.parquet",
+    "processed_data_path": "../data_processed_models",
+    "output_dir": "../outputs"
+}

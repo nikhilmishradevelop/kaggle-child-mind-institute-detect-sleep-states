@@ -1,0 +1,9 @@
+*.csv
+*.npy
+*.parquet
+*.pkl
+*.h5
+*.ipc
+*.pyc
+*.ipynb_checkpoints
+**/__pycache__/
