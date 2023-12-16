@@ -1,7 +1,10 @@
 .
-./nbs
-./src
-./src/__pycache__
 ./data
 ./data_processed_models
+./nbs
 ./outputs
+./outputs/fm-v13-final
+./outputs/fm-v15-final
+./outputs/fm-v20-final
+./outputs/fm-v21-final
+./src
